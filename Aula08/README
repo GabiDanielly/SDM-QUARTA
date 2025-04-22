@@ -1,0 +1,7 @@
+JSON (JavaScript Object Notation) é um formato leve de troca de dados, baseado em texto, usado para representar objetos e arrays com estrutura de chave-valor. É fácil de ler por humanos e simples de interpretar por máquinas.
+
+ Para que serve?
+JSON é amplamente utilizado para:
+Troca de dados entre cliente e servidor (ex: APIs);
+Armazenamento de configurações;
+Integração entre sistemas e aplicações web.
