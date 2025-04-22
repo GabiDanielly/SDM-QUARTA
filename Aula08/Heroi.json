@@ -1,0 +1,94 @@
+{
+    "personagens":[
+        {
+            "nome":"Homem-Aranha",
+            "tipo": "heroi",
+            "identidade-secreta": "Peter Park",
+            "poderes": [
+                {"nome":"soltar teia", "poder":3},
+                {"nome": "andar em paredes", "poder": 2},
+                {"nome": "sentido apurado", "poder": 1}
+            ]
+        },
+        {
+            "nome": "Super-Homem",
+            "tipo": "heroi",
+            "identidade-secreta":"Clark Kent",
+            "poderes":[
+                {"nome":"valor", "poder":3},
+                {"nome": "força", "poder": 5},
+                {"nome":"visao de raio X", "poder":4},
+                {"nome":"sopro congelante", "poder":4}
+            ]
+        },
+        {
+            "nome":"Capitão América",
+            "tipo":"heroi",
+            "indentidade-secreta": "Steven Rogers",
+            "poderes":[
+                {"nome": "supersoldado", "poder": 3},
+                {"nome": "escudo", "poder":3}
+            ]
+        },
+        {
+            "nome":"Flash",
+            "tipo":"heroi",
+            "indentidade-secreta":"Barry Allen",
+            "poderes":[
+                {"nome": "velocidade", "poder":5}
+            ]
+        },
+        {
+            "nome":"Lanterna-Verde",
+            "tipo":"heroi",
+            "identidade-secreta":"Hal Jordan",
+            "poderes":[
+                { "nome":"anel mágico", "poder": 5}
+            ]
+        },
+        {
+            "nome":"Homem de Ferro",
+            "tipo":"heroi",
+            "identidade-secreta":"Tony Stark",
+            "poderes":[
+                {"nome":"armadura","poder":4},
+                {"nome":"dispositivos eletrônicos", "poder":2}
+            ]
+        },
+        {
+            "nome":"Duende Verde",
+            "tipo":"vilao",
+            "identidade-secreta":"Norman Osburne",
+            "poderes":[
+                {"nome": "força","poder": 5}
+            ]
+        },
+        {
+            "nome":"Lex Luthor",
+            "tipo":"vilao",
+            "identidade-secreta": "Lex Luthor",
+            "poderes":[{"nome":"mente aguçada", "poder": 5}]
+        },
+        {
+            "nome":"Bizarro",
+            "tipo":"vilao",
+            "identidade-secreta":"Bizarro",
+            "poderes":[
+                {"nome":"voar","poder":3},
+                {"nome":"força", "poder":5},
+                {"nome":"visao de raio X","poder":4},
+                {"nome":"sopro congelante", "poder":4}
+            ]
+        },
+        {
+            "nome":"Octopus",
+            "tipo":"vilao",
+            "identidade-secreta":"Otto Octavius",
+            "poderes":[
+                {"nome":"tentáculos indestrutíveis", "poder":5},
+                {"nome": "velocidade", "pdoer":1}
+            ]
+
+        }
+    ]
+}
